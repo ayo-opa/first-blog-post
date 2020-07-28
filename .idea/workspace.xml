@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e9622bf-fec3-4d11-9197-b0d4c48d9cc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bbnblog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bbnblog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bbnsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bbnsite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="884" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595933090897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="884" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1595933090897" />
     <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1595925457929">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
